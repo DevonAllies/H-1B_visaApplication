@@ -1,5 +1,9 @@
 H-1B Visa Applications Analysis:
 
+Data: The data is to big to be added to github. It can be located at the following url:
+
+    https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub
+
 Overview:
 
 This project represents my first attempt at a real-world data analysis using R. The focus is on analyzing H-1B visa application trends from 2020 to 2024 using data from the U.S. Citizenship and Immigration Services (USCIS) H-1B Employer Data Hub.
