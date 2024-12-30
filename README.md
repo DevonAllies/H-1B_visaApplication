@@ -1,6 +1,3 @@
-# H-1B_visaApplication
-This repository contains the code and report for an analysis of H-1B visa applications in the United States from fiscal years 2020 to 2024. This project represents my first attempt at a real-world data analysis using R.
-
 H-1B Visa Applications Analysis
 Overview
 This project represents my first attempt at a real-world data analysis using R. The focus is on analyzing H-1B visa application trends from 2020 to 2024 using data from the U.S. Citizenship and Immigration Services (USCIS) H-1B Employer Data Hub.
